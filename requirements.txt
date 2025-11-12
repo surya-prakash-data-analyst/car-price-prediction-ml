@@ -1,0 +1,8 @@
+# Core dependencies for Car Price Prediction project
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+fpdf
+jupyter
